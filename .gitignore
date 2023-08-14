@@ -1,0 +1,18 @@
+# Rust Language
+/target
+rust-project.json
+*.o
+
+# IDE generated file
+.idea
+.vscode/*
+*.iml
+
+# OS generated file
+.DS_Store
+
+# rustlings feature
+target/
+exercises/clippy/Cargo.toml
+exercises/clippy/Cargo.lock
+!.vscode/extensions.json
